@@ -1,0 +1,7 @@
+So saving with google chrome seems to mess up the html somehow.
+there are odd artifacts throughout it.
+we need to remove
+=09
+=20
+=\n that's an equals sign followed by a new line.
+and change =3D to =

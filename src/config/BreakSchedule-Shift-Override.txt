@@ -1,0 +1,16 @@
+# Override an employee's shifts
+# Write a shift like this
+# Name	department	day	shift start	shift end
+# e.g. this line would put simon on the rota for 9-4
+# John Smith	mon	9:00	16:00
+# John Smith	tue	Off
+#
+# Shifts must be written in 24 hour
+
+#Jess Smith	Checkouts	mon	off
+#Jess Smith	Checkouts	tue	09:00	16:00
+#Jess Smith	Checkouts	wed	12:00	19:00
+#Jess Smith	Checkouts	thu	off
+#Jess Smith	Checkouts	fri	12:00	19:00
+#Jess Smith	Checkouts	sat	11:00	18:00
+#Jess Smith	Checkouts	sun	09:00	16:00

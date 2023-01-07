@@ -1,0 +1,6 @@
+# This is a list of reliefs that are till trained.
+# Just add their full name and they will be counted as a relief.
+# Add a # at the start of a line to add any comments you want
+#Jenny Smith
+#Jason Smith
+

@@ -1,0 +1,5 @@
+# Write each person's full name below, exactly how it appears on the break schedule,
+# to exclude them from being counted by Adam's Numbers.
+# Write one name per line
+
+#John Smith

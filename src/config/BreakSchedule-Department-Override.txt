@@ -1,0 +1,10 @@
+# Add employees to this list to override the system's set department.
+# Sometimes we want to move someone to another department
+# Write their name, and department with an equals sign inbetween
+# Departments you can use:
+# Checkouts, Team Leader, Kiosk, Trolleys, Petrol
+#
+# E.g.
+# Simon Smith = Checkouts
+# Bob Smith = Petrol
+

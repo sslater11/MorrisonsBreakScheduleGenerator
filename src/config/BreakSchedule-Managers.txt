@@ -1,0 +1,7 @@
+# This is a list of Managers
+# Just add their full name and they will be counted as a manager.
+# Add a # at the start of a line to add any comments you want
+
+#John Smith
+#Jan Smith
+
